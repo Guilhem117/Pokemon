@@ -1,0 +1,29 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "To launch the project, with a command line do (in the repository) :\r     initMongoDB.bat\r \tnode server.js",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap-combobox": "^1.0.2",
+    "bootstrap": "^3.3.7",
+    "debug": "^2.3.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "mongodb": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Guilhem117@bitbucket.org/Guilhem117/pokemon-team-planner.git"
+  },
+  "keywords": [],
+  "author": "SERENE Guilhem",
+  "license": "CopyLeft",
+  "homepage": "https://bitbucket.org/Guilhem117/pokemon-team-planner#readme"
+}
