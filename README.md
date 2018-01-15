@@ -8,3 +8,4 @@ Creation d'une interface permettant de créer des équipes Pokémon
 * Front-end : HTML CSS Bootstrap 
 * Back-end : NodeJS
 * Base de données : MongoDB (NoSQL)
+* API supplémentaires : PokeAPI (REST) https://pokeapi.co/
